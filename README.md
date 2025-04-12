@@ -1,4 +1,6 @@
 # Final Task 1
+This portfolio introduces the fundamentals of MySQL using a multi-level corporate database. It involves writing SQL queries, building table structures, and developing relational schemas or ER diagrams. To demonstrate the database's construction, the portfolio will also contain SQL copies of the database and table architecture.
+
 ### Task 1: Create the employees table
   - Define employee_id as a unique integer, auto-increment, and primary key.
   - Define employee_name as a VARCHAR (up to 255 characters), and make it not null.

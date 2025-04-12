@@ -56,5 +56,9 @@ This portfolio introduces the fundamentals of MySQL using a multi-level corporat
 <img src="images/manager2.png" alt="Alt Text" Width="900" heigth="300">
 
 
-### ER Diagram
+## ER Diagram
 <img src="images/ER.png" alt="Alt Text" Width="900" heigth="300">
+
+## Sql copy of the database and table structures
+<img src="images/pic1.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/pic2.png" alt="Alt Text" Width="900" heigth="300">

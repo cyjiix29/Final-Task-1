@@ -23,4 +23,36 @@
  
 
 ## Screenshots
-<img src="Images/cleaned.png" alt="Alt Text" Width="900" heigth="300">
+#### Employees Table
+<img src="images/emplo.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Department Table
+<img src="images/depart.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Employee & Department Table
+<img src="images/emplodepart.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Employees Project
+<img src="images/emplopro.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Manager Table
+<img src="images/manager.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Employees Table
+<img src="images/emplo2.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Department Table
+<img src="images/depart2.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Employee & Department Table
+<img src="images/emplodepart2.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Employees Project
+<img src="images/emplopro2.png" alt="Alt Text" Width="900" heigth="300">
+
+#### Manager Table
+<img src="images/manager2.png" alt="Alt Text" Width="900" heigth="300">
+
+
+### ER Diagram
+<img src="images/ER.png" alt="Alt Text" Width="900" heigth="300">
